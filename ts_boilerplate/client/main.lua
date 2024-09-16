@@ -1,1 +1,0 @@
-local Config = lib.load('config')
