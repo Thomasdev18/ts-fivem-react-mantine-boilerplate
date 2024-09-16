@@ -1,6 +1,6 @@
 # TS FiveM React TS Mantine Boilerplate
 
-This is a boilerplate for creating React applications using TypeScript and Mantine V6, specifically tailored for FiveM development. If you prefer to use Mantine V7, you can change the package version accordingly.
+This is a boilerplate for creating React applications using TypeScript and Mantine V6. If you prefer to use Mantine V7, you can change the package version accordingly.
 
 ## Getting Started
 
