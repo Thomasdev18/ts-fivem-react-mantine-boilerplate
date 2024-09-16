@@ -7,7 +7,7 @@ This is a boilerplate for creating React applications using TypeScript and Manti
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ts-fivem-react-mantine-boilerplate.git
+   git clone https://github.com/Thomasdev18/ts-fivem-react-mantine-boilerplate.git
    cd ts-fivem-react-mantine-boilerplate
    ```
 
