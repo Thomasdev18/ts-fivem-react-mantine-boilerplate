@@ -203,6 +203,11 @@ end
 
 The `action` should contain `setVisible` and the component name defined in `main.tsx` to properly control the visibility of your UI components from the client side. The action could also be a action to trigger a nui event in the frontend using `useNuiEvent.ts`
 
+EXAMPLE:
+```lua
+ShowNUI('setVisibleWelcome', true)
+```
+
 ## Contributing
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
